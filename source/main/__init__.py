@@ -1,1 +1,1 @@
-i love you soory
+print("i love you soory")
